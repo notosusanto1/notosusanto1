@@ -1,4 +1,4 @@
-# notosusanto
+# noto susanto
 My Github Profile
 ![Noto Susanto](img/github-header1.png)
 

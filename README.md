@@ -1,5 +1,6 @@
-# noto susanto
+# Noto Susanto
 My Github Profile
+
 ![Noto Susanto](img/github-header1.png)
 
 ##### Hello World! I'm Noto Susanto
